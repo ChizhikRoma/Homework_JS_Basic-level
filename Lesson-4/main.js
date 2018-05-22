@@ -40,14 +40,14 @@ function pow(x, n) {
 }*/
 
 //Задача 3
-var n = +prompt("Введите число:");
+/*var n = +prompt("Введите число:");
 if (n < 1 || !(+n)) {
 	alert("Число должно быть больше 0!");
 }
 else {
 	//var j = n;
 	alert(sumTo(n));
-}
+}*/
 //1 вариант  (2-ой по скорости)
 /*function sumTo(n) {
 	var res = 0;
